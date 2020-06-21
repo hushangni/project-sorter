@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Retro API",
+    "techStack": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "JWT"
+    ],
+    "desc": "Retro Rewind REST API. Free to use to grab the Top 5 Hottest Movies, Shows, Books, and Songs from the retro age.",
+    "imgs": [
+      {
+        "src": "someURL",
+        "alt": "someDesc"
+      },
+      {
+        "src": "someURL",
+        "alt": "someDesc"
+      }
+    ]
+  },
+  {
+    "name": "Retro API",
+    "techStack": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "JWT"
+    ],
+    "desc": "Retro Rewind REST API. Free to use to grab the Top 5 Hottest Movies, Shows, Books, and Songs from the retro age.",
+    "imgs": [
+      {
+        "src": "someURL",
+        "alt": "someDesc"
+      },
+      {
+        "src": "someURL",
+        "alt": "someDesc"
+      }
+    ]
+  },
+  {
+    "name": "Retro API",
+    "techStack": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "JWT"
+    ],
+    "desc": "Retro Rewind REST API. Free to use to grab the Top 5 Hottest Movies, Shows, Books, and Songs from the retro age.",
+    "imgs": [
+      {
+        "src": "someURL",
+        "alt": "someDesc"
+      },
+      {
+        "src": "someURL",
+        "alt": "someDesc"
+      }
+    ]
+  },
+  {
+    "name": "Retro API",
+    "techStack": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "JWT"
+    ],
+    "desc": "Retro Rewind REST API. Free to use to grab the Top 5 Hottest Movies, Shows, Books, and Songs from the retro age.",
+    "imgs": [
+      {
+        "src": "someURL",
+        "alt": "someDesc"
+      },
+      {
+        "src": "someURL",
+        "alt": "someDesc"
+      }
+    ]
+  }
+]
